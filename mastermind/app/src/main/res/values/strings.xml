@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MASTERMIND</string>
+    <string name="jouer">JOUER</string>
+    <string name="config">CONFIGURATION</string>
+    <string name="historique">HISTORIQUE</string>
+    <string name="email">EMAIL: </string>
+    <string name="soumettre">SOUMETTRE</string>
+    <string name="abandonner">ABANDONNER</string>
+    <string name="nouvelle_partie">NOUVELLE PARTIE</string>
+    <string name="valider">VALIDER</string>
+    <string name="longueur_du_code">Longueur du code: </string>
+    <string name="nombre_de_couleurs">Nombres de couleurs: </string>
+    <string name="nombre_maximal_de_tentative">Nombre maximal de tentative:</string>
+    <string name="legende">LÉGENDE</string>
+    <string name="legende_contenu">JOUEURS\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020 CODE\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020 COULEURS / RÉSULTAT / ESSAI</string>
+    <string name="legende_contenu2">RÉSULTAT : R = RÉUSSI / E = ÉCHEC / A = Abandon</string>
+    <string name="adresse_email">adresse e-mail</string>
+    <string name="placeholder">placeholder</string>
+    <string name="resultat_placeholder">8 / R / 7</string>
+    <string name="code">code</string>
+</resources>

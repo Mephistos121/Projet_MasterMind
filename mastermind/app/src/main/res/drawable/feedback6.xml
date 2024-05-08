@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cercle1" android:gravity="center" android:top="45dp" android:left="30dp" android:drawable="@drawable/cercle_jeu">
+
+        <shape>
+
+            <solid android:color="#FFF8F8F8" />
+            <size
+                android:width="20dp"
+                android:height="20dp"/>
+        </shape>
+    </item>
+    <item android:id="@+id/cercle2" android:gravity="center" android:bottom="45dp"  android:left="30dp" android:drawable="@drawable/cercle_jeu">
+        <shape>
+
+            <solid android:color="#FFF8F8F8" />
+            <size
+                android:width="20dp"
+                android:height="20dp"/>
+        </shape>
+    </item>
+    <item android:id="@+id/cercle3" android:gravity="center" android:top="45dp" android:right="30dp"  android:drawable="@drawable/cercle_jeu">
+        <shape>
+            <solid android:color="#FFF8F8F8"/>
+            <size android:width="20dp" android:height="20dp"/>
+        </shape>
+    </item>
+    <item android:id="@+id/cercle4" android:gravity="center" android:bottom="45dp"  android:right="30dp" android:drawable="@drawable/cercle_jeu">
+        <shape>
+
+            <solid android:color="#FFF8F8F8" />
+            <size
+                android:width="20dp"
+                android:height="20dp"/>
+        </shape>
+    </item>
+    <item android:id="@+id/cercle5" android:gravity="center"  android:left="30dp"  android:drawable="@drawable/cercle_jeu">
+        <shape>
+
+            <solid android:color="#FFF8F8F8" />
+            <size
+                android:width="20dp"
+                android:height="20dp"/>
+        </shape>
+    </item>
+    <item android:id="@+id/cercle6" android:gravity="center"  android:right="30dp"  android:drawable="@drawable/cercle_jeu">
+        <shape>
+
+            <solid android:color="#FFF8F8F8" />
+            <size
+                android:width="20dp"
+                android:height="20dp"/>
+        </shape>
+    </item>
+</layer-list>
